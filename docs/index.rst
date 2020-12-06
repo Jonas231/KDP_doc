@@ -6,6 +6,9 @@
 Welcome to KDP_doc's documentation!
 ===================================
 
+`This documentation of KDP-2 is an adaption of the manual provided on the original site by James E. klein:`_
+.. _KDP-2: http://ecalculations.com/
+
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
@@ -19,5 +22,3 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-`This documentation of KDP-2 is an adaption of the manual provided on the original site by James E. klein:`_
-.. _KDP-2: http://ecalculations.com/
