@@ -6,6 +6,9 @@
 Welcome to KDP_doc's documentation!
 ===================================
 
+Description:
+------------
+
 `This documentation of KDP-2 is an adaption of the manual provided on the original site by James E. klein:`_
 .. _KDP-2: http://ecalculations.com/
 
