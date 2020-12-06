@@ -16,7 +16,7 @@ Description:
    :maxdepth: 3
    :caption: Contents:
 
-   source/Getting_Started
+   Getting_Started
 
 Indices and tables
 ==================
