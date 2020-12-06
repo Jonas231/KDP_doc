@@ -7,10 +7,10 @@ Welcome to KDP_doc's documentation!
 ===================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
-
+   source/Getting_Started
 
 Indices and tables
 ==================
